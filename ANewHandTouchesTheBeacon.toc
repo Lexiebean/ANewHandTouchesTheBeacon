@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: A New Hand Touches The Beacon
+## Author: |cff5BCEFAL|cffF5A9B8e|cffFFFFFFx|cffF5A9B8i|cff5BCEFAe|r
+## Notes: A New Hand Touches The Beacon
+## Version: 1.0
+## SavedVariables: ANewBeacon
+ANewHandTouchesTheBeacon.lua
