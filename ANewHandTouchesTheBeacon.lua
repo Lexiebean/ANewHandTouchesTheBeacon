@@ -5,7 +5,7 @@ ANewBeaconFrame:RegisterEvent("BAG_UPDATE")
 
 ANewBeaconFrame:SetScript("OnEvent", function()
 	if event == "BAG_UPDATE" then
-
+    if  not ANewBeacon then ANewBeacon = {} end
 	local clearVars = {}
         for i=0, 4, 1 do
             local j = GetContainerNumSlots(i)
